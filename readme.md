@@ -1,1 +1,1 @@
-新增了一个分支，Android Studio右下方可以切换分支
+新增了一个分支，Android Studio右下方可以切换分支，在主分支上修改了readme
